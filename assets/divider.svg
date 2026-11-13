@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="36" viewBox="0 0 1280 36" role="img" aria-label="divider">
+<defs><linearGradient id="gd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1280" y2="0" ><stop offset="0" stop-color="#2EE6F6"/><stop offset="0.55" stop-color="#3D7BFF"/><stop offset="1" stop-color="#8A5CFF"/></linearGradient></defs>
+<style>
+.flow{fill:none;stroke:url(#gd);stroke-width:3;stroke-linecap:round;stroke-dasharray:140 1400;stroke-dashoffset:1540;animation:flow 5s linear infinite}
+@keyframes flow{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<path d="M8 18 H600 L612 8 H668 L680 18 H1272" fill="none" stroke="#1C2840" stroke-width="2" stroke-linejoin="round"/>
+<path class="flow" d="M8 18 H600 L612 8 H668 L680 18 H1272"/>
+<rect x="633" y="11" width="14" height="14" rx="3" transform="rotate(45 640 18)" fill="#070B14" stroke="url(#gd)" stroke-width="2"/>
+<circle cx="8" cy="18" r="3" fill="url(#gd)"/><circle cx="1272" cy="18" r="3" fill="url(#gd)"/>
+</svg>

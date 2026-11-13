@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="632" viewBox="0 0 1280 632" role="img" aria-label="Services: software engineering, cloud and DevOps, cybersecurity, AI and automation, IT infrastructure, technical consulting">
+<defs><clipPath id="frame"><rect width="1280" height="632" rx="24"/></clipPath><linearGradient id="gs" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1280" y2="632" ><stop offset="0" stop-color="#2EE6F6"/><stop offset="0.55" stop-color="#3D7BFF"/><stop offset="1" stop-color="#8A5CFF"/></linearGradient></defs>
+<style>
+.sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif} .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.draw path,.draw circle{stroke-dasharray:1 1;stroke-dashoffset:1;animation:draw 6s ease-in-out infinite;animation-delay:inherit}
+@keyframes draw{0%{stroke-dashoffset:1}22%,86%{stroke-dashoffset:0}100%{stroke-dashoffset:-1}}
+.bar{opacity:.3;animation:bar 4.2s ease-in-out infinite}
+@keyframes bar{0%,100%{opacity:.3}20%{opacity:1}45%{opacity:.3}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1280" height="632" fill="#070B14"/>
+  
+<g>
+  <rect x="32" y="32" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="60" y="32" width="96" height="2" fill="url(#gs)" style="animation-delay:-0.0s"/>
+  <rect x="60" y="60" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(74 74) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-0.0s"><path d="M8 7 L3 12 L8 17 M16 7 L21 12 L16 17 M14 4 L10 20" pathLength="1"/></g>
+    <g fill="#2EE6F6"></g>
+  </g>
+  <text x="392" y="84" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">01</text>
+  <text x="60" y="162" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">Software Engineering</text>
+  <text x="60" y="196" class="sans" font-size="15" fill="#9FB0CC">Web platforms, mobile apps and APIs</text><text x="60" y="220" class="sans" font-size="15" fill="#9FB0CC">designed around how your team</text><text x="60" y="244" class="sans" font-size="15" fill="#9FB0CC">actually works.</text>
+  <text x="60" y="280" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">WEB · MOBILE · API</text>
+</g>
+<g>
+  <rect x="446" y="32" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="474" y="32" width="96" height="2" fill="url(#gs)" style="animation-delay:-0.7s"/>
+  <rect x="474" y="60" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(488 74) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-0.7s"><path d="M7 18 H17 A4 4 0 0 0 17.6 10.05 A6 6 0 0 0 6.2 9.6 A4.2 4.2 0 0 0 7 18 Z" pathLength="1"/><path d="M12 16 V11 M9.8 13 L12 10.8 L14.2 13" pathLength="1"/></g>
+    <g fill="#2EE6F6"></g>
+  </g>
+  <text x="806" y="84" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">02</text>
+  <text x="474" y="162" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">Cloud &amp; DevOps</text>
+  <text x="474" y="196" class="sans" font-size="15" fill="#9FB0CC">CI/CD pipelines, containers and</text><text x="474" y="220" class="sans" font-size="15" fill="#9FB0CC">infrastructure as code that scales</text><text x="474" y="244" class="sans" font-size="15" fill="#9FB0CC">without 3 a.m. pages.</text>
+  <text x="474" y="280" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">AWS · AZURE · KUBERNETES</text>
+</g>
+<g>
+  <rect x="860" y="32" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="888" y="32" width="96" height="2" fill="url(#gs)" style="animation-delay:-1.4s"/>
+  <rect x="888" y="60" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(902 74) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-1.4s"><path d="M12 3 L19 6 V11 C19 15.5 16 19 12 21 C8 19 5 15.5 5 11 V6 Z" pathLength="1"/><path d="M9 12 L11 14 L15 10" pathLength="1"/></g>
+    <g fill="#2EE6F6"></g>
+  </g>
+  <text x="1220" y="84" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">03</text>
+  <text x="888" y="162" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">Cybersecurity</text>
+  <text x="888" y="196" class="sans" font-size="15" fill="#9FB0CC">Penetration testing, hardening and</text><text x="888" y="220" class="sans" font-size="15" fill="#9FB0CC">secure-by-design code reviews,</text><text x="888" y="244" class="sans" font-size="15" fill="#9FB0CC">before attackers find the gaps.</text>
+  <text x="888" y="280" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">PENTEST · DEVSECOPS · AUDIT</text>
+</g>
+<g>
+  <rect x="32" y="328" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="60" y="328" width="96" height="2" fill="url(#gs)" style="animation-delay:-2.1s"/>
+  <rect x="60" y="356" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(74 370) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-2.1s"><path d="M7.3 7.3 L10.7 10.7 M16.7 7.3 L13.3 10.7 M7.3 16.7 L10.7 13.3 M16.7 16.7 L13.3 13.3" pathLength="1"/><circle cx="6" cy="6" r="1.9" pathLength="1"/><circle cx="18" cy="6" r="1.9" pathLength="1"/><circle cx="6" cy="18" r="1.9" pathLength="1"/><circle cx="18" cy="18" r="1.9" pathLength="1"/><circle cx="12" cy="12" r="2.4" pathLength="1"/></g>
+    <g fill="#2EE6F6"></g>
+  </g>
+  <text x="392" y="380" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">04</text>
+  <text x="60" y="458" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">AI &amp; Automation</text>
+  <text x="60" y="492" class="sans" font-size="15" fill="#9FB0CC">Assistants, data pipelines and</text><text x="60" y="516" class="sans" font-size="15" fill="#9FB0CC">workflows that take repetitive</text><text x="60" y="540" class="sans" font-size="15" fill="#9FB0CC">work off your people.</text>
+  <text x="60" y="576" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">LLM · DATA · WORKFLOWS</text>
+</g>
+<g>
+  <rect x="446" y="328" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="474" y="328" width="96" height="2" fill="url(#gs)" style="animation-delay:-2.8s"/>
+  <rect x="474" y="356" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(488 370) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-2.8s"><path d="M4 4 H20 V10 H4 Z M4 14 H20 V20 H4 Z" pathLength="1"/><path d="M14 7 H17 M14 17 H17" pathLength="1"/></g>
+    <g fill="#2EE6F6"><circle cx="7.5" cy="7" r="1.1"/><circle cx="7.5" cy="17" r="1.1"/></g>
+  </g>
+  <text x="806" y="380" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">05</text>
+  <text x="474" y="458" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">IT Infrastructure</text>
+  <text x="474" y="492" class="sans" font-size="15" fill="#9FB0CC">Linux servers, networks and</text><text x="474" y="516" class="sans" font-size="15" fill="#9FB0CC">monitoring kept fast, patched</text><text x="474" y="540" class="sans" font-size="15" fill="#9FB0CC">and documented.</text>
+  <text x="474" y="576" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">LINUX · NETWORK · MONITORING</text>
+</g>
+<g>
+  <rect x="860" y="328" width="388" height="272" rx="18" fill="#0C1322" stroke="#1C2840"/>
+  <rect class="bar" x="888" y="328" width="96" height="2" fill="url(#gs)" style="animation-delay:-3.5s"/>
+  <rect x="888" y="356" width="56" height="56" rx="14" fill="#0F1A2E" stroke="#24324D"/>
+  <g transform="translate(902 370) scale(1.1667)">
+    <g class="draw" fill="none" stroke="url(#gs)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="animation-delay:-3.5s"><circle cx="12" cy="12" r="9" pathLength="1"/><path d="M15.5 8.5 L13.5 13.5 L8.5 15.5 L10.5 10.5 Z" pathLength="1"/></g>
+    <g fill="#2EE6F6"></g>
+  </g>
+  <text x="1220" y="380" text-anchor="end" class="mono" font-size="13" fill="#4A5B7D">06</text>
+  <text x="888" y="458" class="sans" font-size="22" font-weight="700" fill="#E9EEF7">Technical Consulting</text>
+  <text x="888" y="492" class="sans" font-size="15" fill="#9FB0CC">Architecture reviews and strategy,</text><text x="888" y="516" class="sans" font-size="15" fill="#9FB0CC">from the first sketch to a</text><text x="888" y="540" class="sans" font-size="15" fill="#9FB0CC">stable launch.</text>
+  <text x="888" y="576" class="mono" font-size="11" fill="#2EE6F6" letter-spacing="1.5">ARCHITECTURE · STRATEGY</text>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="1279" height="631" rx="24" fill="none" stroke="#1C2840"/>
+</svg>

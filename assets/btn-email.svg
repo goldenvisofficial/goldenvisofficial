@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60" role="img" aria-label="Email">
+<defs><linearGradient id="gb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="240" y2="60" ><stop offset="0" stop-color="#2EE6F6"/><stop offset="0.55" stop-color="#3D7BFF"/><stop offset="1" stop-color="#8A5CFF"/></linearGradient></defs>
+<style>
+.sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif} .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.run{fill:none;stroke:url(#gb);stroke-width:2;stroke-dasharray:22 78;stroke-dashoffset:100;animation:run 4s linear infinite}
+@keyframes run{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="238" height="58" rx="29" fill="#070B14" stroke="#24324D" stroke-width="1.5"/>
+<rect class="run" x="1" y="1" width="238" height="58" rx="29" pathLength="100"/>
+<circle cx="34" cy="30" r="5" fill="url(#gb)"/>
+<text x="54" y="36" class="sans" font-size="17" font-weight="700" fill="#E9EEF7">Email</text>
+<text x="206" y="36" text-anchor="middle" class="mono" font-size="17" fill="#2EE6F6">@</text>
+</svg>
